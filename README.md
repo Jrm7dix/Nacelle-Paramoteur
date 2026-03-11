@@ -7,9 +7,13 @@
 
 **STL** : les fichiers au format d'impression 3D (Cura, Prusaslicer, etc.).
 
+<br>
+
 ***
 
 **Pour télécharger un fichier CAD ou STL :**
+
+<br>
 
 1) Cliquer sur le dossier voulu : \
    <img width="158" height="71" alt="image" src="https://github.com/user-attachments/assets/6c9e0cc0-24bb-4541-970b-b180a53c0df6" />
@@ -26,4 +30,18 @@
    Cliquer sur l'icone "Download RAW file"\
    <img width="33" height="38" alt="image" src="https://github.com/user-attachments/assets/95cd967c-4db1-4720-9f05-d0dd9f8420cc" />
 
+<br>
+
 ***
+
+**Pour télécharger TOUS les fichiers (CAD, STL) d'un seul coup :**
+
+<br>
+
+Cliquer sur l'icone verte "CODE" \
+<img width="136" height="55" alt="image" src="https://github.com/user-attachments/assets/7fbaa11b-f0e4-4fd9-b16f-4bb1caab8ea8" />
+
+Choisir "Download ZIP file"
+
+Enregistrer l'archive ZIP sur l'ordinateur, la décompresser, tout est dedans.
+

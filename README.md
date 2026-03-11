@@ -5,6 +5,10 @@ Test de mise en place d'un repo PUBLIC.
 
 <br>
 
+**CAD_Files** : les fichiers au format Logiciel 3D.
+
+**STL** : les fichiers au format d'impression 3D (Cura, Prusaslicer, etc.).
+
 ***
 
 **Pour télécharger un fichier CAD ou STL :**
